@@ -17,10 +17,10 @@
     width = 50%
     top = 16%
     height = 45%	
-    item_font = "DejaVu Sans Regular 18"
-    item_color = "#4b579f"
-    selected_item_font = "DejaVu Sans Regular 18"
-    selected_item_color = "#c47dab"
+    item_font = "Blender Pro Regular 24"
+    item_color = "#F8F9FA"
+    selected_item_font = "Blender Pro Regular 24"
+    selected_item_color = "#cc5a97"
     icon_width = 16
     icon_height = 16
     item_height = 33
