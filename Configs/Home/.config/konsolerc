@@ -1,0 +1,24 @@
+[Desktop Entry]
+DefaultProfile=XeroLinux.profile
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA1AAAAGGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Virtual1 Height 1650x1050=427
+Virtual1 Width 1650x1050=900
+Virtual1 XPosition 1650x1050=375
+Virtual1 YPosition 1650x1050=320
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+NewTabButton=true
+
+[UiSettings]
+ColorScheme=Default

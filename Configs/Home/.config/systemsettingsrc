@@ -1,0 +1,13 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Virtual1 XPosition 1650x1050=315
+Virtual1 YPosition 1650x1050=202
+
+[Open-with settings]
+CompletionMode=1
+History=yak,pamac-tray
+
+[UiSettings]
+ColorScheme=Default

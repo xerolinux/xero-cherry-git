@@ -1,0 +1,79 @@
+[KFileDialog Settings]
+Recent Files[$e]=xero.png,file:///usr/share/logos/xero.png
+Recent URLs[$e]=file:///usr/share/icons/scalable/apps/
+iconViewIconSize=64
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelOpacity=2
+panelVisibility=2
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=3770
+minLength=3770
+thickness=34
+
+[PlasmaViews][Panel 2][Horizontal1024]
+thickness=0
+
+[PlasmaViews][Panel 2][Horizontal1650]
+maxLength=1624
+minLength=1622
+thickness=34
+
+[PlasmaViews][Panel 2][Horizontal1920]
+maxLength=1870
+minLength=1870
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal3840]
+maxLength=3770
+minLength=3770
+
+[PlasmaViews][Panel 2][Horizontal4096]
+maxLength=4080
+minLength=4080
+thickness=32
+
+[PlasmaViews][Panel 2][Vertical1050]
+thickness=32
+
+[PlasmaViews][Panel 30]
+alignment=132
+
+[PlasmaViews][Panel 30][Defaults]
+maxLength=4096
+minLength=4096
+thickness=38
+
+[PlasmaViews][Panel 30][Horizontal1024]
+thickness=38
+
+[PlasmaViews][Panel 30][Horizontal1650]
+maxLength=4096
+minLength=4096
+thickness=38
+
+[PlasmaViews][Panel 30][Horizontal1920]
+maxLength=1920
+minLength=1920
+
+[PlasmaViews][Panel 30][Horizontal4096]
+maxLength=4096
+minLength=4096
+thickness=38
+
+[PlasmaViews][Panel 60][Defaults]
+maxLength=691
+minLength=575
+thickness=36
+
+[PlasmaViews][Panel 60][Horizontal1650]
+maxLength=691
+minLength=575
+
+[PlasmaViews][Panel 60][Vertical1050]
+thickness=36
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js
