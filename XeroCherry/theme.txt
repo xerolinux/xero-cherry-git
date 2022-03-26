@@ -3,12 +3,12 @@
 # general settings
  title-text: ""
  title-color: "#c47dab"
- message-font: "DejaVu Sans Regular 14"
+ message-font: "Blender Pro Regular 16"
  message-color: "#15a0bc"
  message-bg-color: "#808080"
  desktop-image: "background.png"
  desktop-color: "#808080"
- terminal-font: "DejaVu Sans Regular 14"
+ terminal-font: "Blender Pro Regular 16"
 
 
 # boot menu
@@ -17,9 +17,9 @@
     width = 50%
     top = 16%
     height = 45%	
-    item_font = "Blender Pro Regular 24"
+    item_font = "Blender Pro Regular 16"
     item_color = "#F8F9FA"
-    selected_item_font = "Blender Pro Regular 24"
+    selected_item_font = "Blender Pro Regular 16"
     selected_item_color = "#cc5a97"
     icon_width = 16
     icon_height = 16
