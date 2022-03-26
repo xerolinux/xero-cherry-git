@@ -12,6 +12,11 @@ echo "Installing required Tools"
 echo "#################################"
 sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers pamac-tray-icon-plasma
 sleep 2
+echo "Removing Latte-Dock"
+echo "#################################"
+sudo pacman -Rdd latte-dock
+rm $HOME/.config/autostart/org.kde.latte-dock.desktop
+sleep 2
 echo "Installing Cherry Theme"
 echo "#################################"
 sudo pacman -S --needed --noconfirm cherry-kde-theme cherry-gtk-theme tela-circle-icon-theme-git
