@@ -25,12 +25,12 @@ echo "#################################"
 cp -Rf Configs/Home/. ~
 sudo cp -Rf Configs/System/. /
 sleep 2
-echo "Applying Grub Theme...."
-echo "#################################"
-chmod +x CyberRe.sh
-sudo ./CyberRe.sh
-sudo sed -i "s/#GRUB_GFXMODE=640x480/GRUB_GFXMODE=1920x1080/g" /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-sleep 2
+#echo "Applying Grub Theme...."
+#echo "#################################"
+#chmod +x CyberRe.sh
+#sudo ./CyberRe.sh
+#sudo sed -i "s/#GRUB_GFXMODE=640x480/GRUB_GFXMODE=1920x1080/g" /etc/default/grub
+#sudo grub-mkconfig -o /boot/grub/grub.cfg
+#sleep 2
 echo "RebootTo Apply Settings..."
 echo "#################################"
