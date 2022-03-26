@@ -14,8 +14,7 @@ sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers pama
 sleep 2
 echo "Removing Latte-Dock"
 echo "#################################"
-sudo pacman -Rdd latte-dock
-rm $HOME/.config/autostart/org.kde.latte-dock.desktop
+sudo pacman -Rdd --noconfirm latte-dock
 sleep 2
 echo "Installing Cherry Theme"
 echo "#################################"

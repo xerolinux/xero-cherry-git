@@ -13,18 +13,18 @@
 
 # boot menu
 + boot_menu {
-    left = 20%
+    left = 16%
     width = 50%
-    top = 20%
+    top = 16%
     height = 45%	
-    item_font = "DroidLogo Regular 16"
-    item_color = "#636ac7"
-    selected_item_font = "DroidLogo Regular 16"
+    item_font = "DejaVu Sans Regular 18"
+    item_color = "#4b579f"
+    selected_item_font = "DejaVu Sans Regular 18"
     selected_item_color = "#c47dab"
     icon_width = 16
     icon_height = 16
     item_height = 33
-    item_padding = 20
+    item_padding = 10
     item_icon_space = 5
     item_spacing = 5
 }
