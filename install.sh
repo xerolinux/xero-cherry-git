@@ -10,7 +10,7 @@ mv ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 sleep 2
 echo "Installing required Tools"
 echo "#################################"
-sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers pamac-tray-icon-plasma
+sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers
 sleep 2
 echo "Removing Latte-Dock"
 echo "#################################"
@@ -27,6 +27,7 @@ sleep 2
 echo "Applying new Rice, hold on..."
 echo "#################################"
 cp -Rf Configs/Home/. ~
+sudo rm /usr/share/defaultbg/XeroLinux.png
 sudo cp -Rf Configs/System/. /
 sleep 2
 echo "Applying Grub Theme...."
