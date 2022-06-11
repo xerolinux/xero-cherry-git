@@ -44,6 +44,7 @@ movewindowtocenterEnabled=true
 opacitymenuEnabled=true
 overviewEnabled=true
 screenSnapping5Enabled=true
+screenedgeEnabled=false
 sheetEnabled=true
 slideEnabled=false
 slidebackEnabled=true
