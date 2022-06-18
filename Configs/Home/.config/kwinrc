@@ -43,6 +43,7 @@ minimizeallEnabled=true
 movewindowtocenterEnabled=true
 opacitymenuEnabled=true
 overviewEnabled=true
+screenedgeEnabled=false
 screenSnapping5Enabled=true
 sheetEnabled=true
 slideEnabled=false

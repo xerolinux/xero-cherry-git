@@ -5,6 +5,7 @@ iconViewIconSize=64
 
 [PlasmaViews][Panel 2]
 alignment=132
+floating=1
 panelOpacity=2
 panelVisibility=2
 
