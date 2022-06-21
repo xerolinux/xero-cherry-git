@@ -12,7 +12,7 @@ echo "Installing required Tools"
 echo "#################################"
 sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers
 sleep 2
-echo "Removing Latte-Dock"
+echo "Removing Latte-Dock & Lightly"
 echo "#################################"
 sudo pacman -Rdd --noconfirm latte-dock-git
 sleep 2
