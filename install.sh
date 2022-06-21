@@ -14,7 +14,7 @@ sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers
 sleep 2
 echo "Removing Latte-Dock"
 echo "#################################"
-sudo pacman -Rdd --noconfirm latte-dock
+sudo pacman -Rdd --noconfirm latte-dock-git
 sleep 2
 echo "Installing Cherry Theme"
 echo "#################################"
