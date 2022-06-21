@@ -12,10 +12,11 @@ echo "Installing required Tools"
 echo "#################################"
 sudo pacman -S --needed --noconfirm kvantum neofetch yakuake kde-wallpapers
 sleep 2
-echo "Removing Latte-Dock & Lightly"
+echo "Removing old Latte-Dock & Lightly"
 echo "#################################"
-sudo pacman -Rdd --noconfirm latte-dock-git
+sudo pacman -Rdd --noconfirm latte-dock-git lightly-git
 sleep 2
+echo
 echo "Installing Cherry Theme"
 echo "#################################"
 sudo pacman -S --needed --noconfirm cherry-kde-theme cherry-gtk-theme tela-circle-icon-theme-git
