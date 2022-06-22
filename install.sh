@@ -10,7 +10,9 @@ mv ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 sleep 2
 echo "Removing Latte-Dock & Lightly"
 echo "#################################"
-sudo pacman -R --noconfirm latte-dock-git latte-dock lightly-git
+sudo pacman -R --noconfirm lightly-git
+sudo pacman -R --noconfirm latte-dock
+sudo pacman -R --noconfirm latte-dock-git
 sleep 2
 echo
 echo "Installing Cherry Theme"
