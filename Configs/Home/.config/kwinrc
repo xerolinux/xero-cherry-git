@@ -36,6 +36,7 @@ blurEnabled=true
 desktopchangeosdEnabled=false
 force-decorations-gtk3Enabled=true
 forceblurEnabled=true
+kwin4_effect_dimscreenEnabled=true
 kwin4_effect_fadedesktopEnabled=true
 kwin4_effect_maximize_xrenderEnabled=true
 macsimizeEnabled=false
