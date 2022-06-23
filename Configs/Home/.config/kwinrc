@@ -15,10 +15,6 @@ Id_4=7d56acf0-5e5c-41d2-8019-5a25163ba9c4
 Number=4
 Rows=1
 
-[Effect-Blur]
-BlurStrength=12
-NoiseStrength=7
-
 [Effect-PresentWindows]
 BorderActivateAll=9
 
@@ -26,6 +22,10 @@ BorderActivateAll=9
 Drag=85
 Stiffness=10
 WobblynessLevel=1
+
+[Effect-blur]
+BlurStrength=6
+NoiseStrength=2
 
 [ModifierOnlyShortcuts]
 Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
