@@ -26,7 +26,6 @@ sleep 2
 echo "Applying new Rice, hold on..."
 echo "#################################"
 cp -Rf Configs/Home/. ~
-sudo rm /usr/share/defaultbg/XeroLinux.png
 sudo cp -Rf Configs/System/. /
 sleep 2
 echo "Applying Grub Theme...."
