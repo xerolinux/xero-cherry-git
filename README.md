@@ -4,6 +4,10 @@
 
 > Applying this rice will override all your settings. So make sure to create a backup of your system either via Snapper if using it, or TimeShift. Don't worry though, script will attempt to create a backup for you of your ~/.config folder before proceeding. Still better be safe than sorry.
 
+-> Performance :
+
+> This rice as with all rices has been throughly optimized for best performance.. If you have issues, kindly report them on our socials, Telegram/Discord.. we will try our best to help...
+
 
 ![XeroLayan](https://i.imgur.com/oGqFvd0.png)
 
