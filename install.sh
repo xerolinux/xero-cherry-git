@@ -17,7 +17,7 @@ sleep 2
 echo
 echo "Installing Cherry Theme"
 echo "#################################"
-sudo pacman -S --needed --noconfirm cherry-kde-theme cherry-gtk-theme tela-circle-icon-theme-git kvantum
+sudo pacman -S --needed --noconfirm cherry-kde-theme cherry-gtk-theme tela-purple-icon-theme-git kvantum
 sleep 2
 echo "Installing Fonts"
 echo "#################################"
